@@ -1,0 +1,2 @@
+jQuery Countdown Timer by: keith wood @ http://keith-wood.name/licence.html 
+Licensed under MIT 
