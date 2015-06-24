@@ -7,7 +7,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 Plugin Name: Shipping Countdown
 Plugin URI: http://purelythemes.com/shipping-countdown
 Description: Countdown until next shipping time. Created for WooCommerce Product Pages For Customer Inticement, but can be used for other things requiring different behavior mon-fri and sat-sun.
-Version: 1.00
+Version: 1.1
 Author: PurelyThemes
 Author URI: http://www.purelythemes.com
 License: GNU GPLv2
